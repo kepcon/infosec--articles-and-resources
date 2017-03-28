@@ -28,7 +28,7 @@ http://www.tuxarena.com/2014/10/collection-of-useful-bash-functions-and-aliases/
 http://www.bashoneliners.com/  
 
 ### Privacy
-> Resouces/Guides
+> Resouces/Guides  
 https://www.privacytools.io/  
 https://thetinhat.com/  
 https://prism-break.org/en/categories/gnu-linux/  
@@ -37,7 +37,7 @@ https://ssd.eff.org/en/playlist/want-security-starter-pack#playlist
 http://techlog360.com/2016/01/nsa-chief-hacker-explains-how-to-avoid-nsa-spying/  
 https://www.bestvpn.com/the-ultimate-privacy-guide/#avoidus  
 
-> Articles
+> Articles  
 http://www.ted.com/talks/glenn_greenwald_why_privacy_matters  
 https://www.aclu.org/blog/you-may-have-nothing-hide-you-still-have-something-fear  
 
