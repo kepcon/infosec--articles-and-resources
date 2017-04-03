@@ -1,6 +1,15 @@
 ## infosec--articles-and-resources
 List of infosec related articles and resources I have found interesting/useful or intend to use in future. May be helpful to others.
 
+### Linux
+http://linuxcommand.org/tlcl.php  
+http://www.linuxtopia.org/LinuxSecurity/index.html  
+https://www.commandlinefu.com/commands/browse/sort-by-votes  
+https://directory.fsf.org/wiki/Main_Page  
+https://www.gnu.org/philosophy/philosophy.html  
+https://prism-break.org/en/categories/gnu-linux/  
+
+
 ### Programming
 #### General
 http://www.itjobswatch.co.uk/default.aspx?page=1&sortby=0&orderby=0&q=&id=900&lid=2618  
@@ -15,6 +24,12 @@ http://www.greenteapress.com/thinkpython/thinkpython.html
 http://inventwithpython.com/hacking/  
 http://www.tutorialspoint.com/python/python_networking.htm  
 Kirk Byers Python Programming for Network Engineers course 
+http://rumkin.com/tools/  
+
+#### Bash
+http://guide.bash.academy/  
+http://www.tuxarena.com/2014/10/collection-of-useful-bash-functions-and-aliases/  
+http://www.bashoneliners.com/  
 
 #### C#/.NET
 http://www.learncs.org/  
@@ -22,14 +37,11 @@ https://msdn.microsoft.com/en-gb/library/z1zx9t92.aspx
 https://msdn.microsoft.com/en-gb/library/orm-9780596521066-01-01.aspx  
 http://www.homeandlearn.co.uk/csharp/csharp.html  
 
-#### Bash
-http://guide.bash.academy/  
-http://www.tuxarena.com/2014/10/collection-of-useful-bash-functions-and-aliases/  
-http://www.bashoneliners.com/  
 
 ### Privacy
 > Resouces/Guides  
 https://www.privacytools.io/  
+https://www.reddit.com/r/privacy/wiki/index  
 https://thetinhat.com/  
 https://prism-break.org/en/categories/gnu-linux/  
 http://www.giswatch.org/en/communications-surveillance/unmasking-five-eyes-global-surveillance-practices  
@@ -72,3 +84,8 @@ http://www.imdb.com/title/tt3010462/?ref_=tt_rec_tt
 http://www.imdb.com/title/tt3268458/?ref_=tt_rec_tt  
 http://www.imdb.com/title/tt1824254/?ref_=tt_rec_tti  
 http://www.imdb.com/title/tt2608732/?ref_=tt_rec_tt  
+
+### Misc
+https://help.github.com/articles/git-and-github-learning-resources/  
+http://imgur.com/gallery/H8obU  
+
