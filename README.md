@@ -1,5 +1,5 @@
 ## infosec--articles-and-resources
-List of infosec related articles and resources I have found interesting/useful or intend to use in future. May be helpful to others.
+List of infosec related articles and resources I have found interesting/useful or intend to use in future.
 
 ### Linux
 http://linuxcommand.org/tlcl.php  
