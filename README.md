@@ -23,7 +23,7 @@ http://inventwithpython.com/pygame/chapters/
 http://www.greenteapress.com/thinkpython/thinkpython.html  
 http://inventwithpython.com/hacking/  
 http://www.tutorialspoint.com/python/python_networking.htm  
-Kirk Byers Python Programming for Network Engineers course 
+Kirk Byers Python Programming for Network Engineers course  
 http://rumkin.com/tools/  
 
 #### Bash
@@ -39,7 +39,7 @@ http://www.homeandlearn.co.uk/csharp/csharp.html
 
 
 ### Privacy
-> Resouces/Guides  
+* Resouces/Guides  
 https://www.privacytools.io/  
 https://www.reddit.com/r/privacy/wiki/index  
 https://thetinhat.com/  
@@ -49,7 +49,7 @@ https://ssd.eff.org/en/playlist/want-security-starter-pack#playlist
 http://techlog360.com/2016/01/nsa-chief-hacker-explains-how-to-avoid-nsa-spying/  
 https://www.bestvpn.com/the-ultimate-privacy-guide/#avoidus  
 
-> Articles  
+* Articles  
 http://www.ted.com/talks/glenn_greenwald_why_privacy_matters  
 https://www.aclu.org/blog/you-may-have-nothing-hide-you-still-have-something-fear  
 https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/  
@@ -74,16 +74,17 @@ https://www.theregister.co.uk/2016/11/30/investigatory_powers_act_backdoors/
 
 
 ### Documentaries
-http://www.imdb.com/title/tt2417174/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt1422757/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt1279942/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt2551516/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt3312868/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt2177843/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt3010462/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt3268458/?ref_=tt_rec_tt  
-http://www.imdb.com/title/tt1824254/?ref_=tt_rec_tti  
-http://www.imdb.com/title/tt2608732/?ref_=tt_rec_tt  
+Terms and Conditions May Apply (2013) - http://www.imdb.com/title/tt2084953/
+DSKNECTD (2013) - http://www.imdb.com/title/tt2417174/?ref_=tt_rec_tt  
+Steal This Film (2006) - http://www.imdb.com/title/tt1422757/?ref_=tt_rec_tt  
+Hackers Are People Too (2008) - http://www.imdb.com/title/tt1279942/?ref_=tt_rec_tt  
+Google and the World Brain (2013) - http://www.imdb.com/title/tt2551516/?ref_=tt_rec_tt  
+Deep Web (2015) - http://www.imdb.com/title/tt3312868/?ref_=tt_rec_tt  
+We Are Legion: The Story of the Hacktivists (2012) - http://www.imdb.com/title/tt2177843/?ref_=tt_rec_tt  
+DEFCON: The Documentary (2013) - http://www.imdb.com/title/tt3010462/?ref_=tt_rec_tt  
+The Internet's Own Boy: The Story of Aaron Swartz (2014) - http://www.imdb.com/title/tt3268458/?ref_=tt_rec_tt  
+We Steal Secrets: The Story of WikiLeaks (2013) - http://www.imdb.com/title/tt1824254/?ref_=tt_rec_tti  
+TPB AFK: The Pirate Bay Away from Keyboard (2013) - http://www.imdb.com/title/tt2608732/?ref_=tt_rec_tt  
 
 ### Misc
 https://help.github.com/articles/git-and-github-learning-resources/  
