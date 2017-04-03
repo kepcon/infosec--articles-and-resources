@@ -53,6 +53,7 @@ https://www.bestvpn.com/the-ultimate-privacy-guide/#avoidus
 http://www.ted.com/talks/glenn_greenwald_why_privacy_matters  
 https://www.aclu.org/blog/you-may-have-nothing-hide-you-still-have-something-fear  
 https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565&  
 https://www.expressvpn.com/blog/why-you-should-care-about-privacy/  
 http://www.techrepublic.com/blog/it-security/why-nothing-to-hide-misrepresents-online-privacy/  
 https://lifehacker.com/5904966/why-you-should-care-about-and-defend-your-privacy  
