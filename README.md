@@ -40,6 +40,35 @@ https://www.bestvpn.com/the-ultimate-privacy-guide/#avoidus
 > Articles  
 http://www.ted.com/talks/glenn_greenwald_why_privacy_matters  
 https://www.aclu.org/blog/you-may-have-nothing-hide-you-still-have-something-fear  
+https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/  
+https://www.expressvpn.com/blog/why-you-should-care-about-privacy/  
+http://www.techrepublic.com/blog/it-security/why-nothing-to-hide-misrepresents-online-privacy/  
+https://lifehacker.com/5904966/why-you-should-care-about-and-defend-your-privacy  
+Smartphones can be taken over. http://www.bbc.com/news/uk-34444233  
+Is your smartphone listening to you? http://www.bbc.com/news/technology-35639549  
+https://wikileaks.org/google-is-not-what-it-seems/  
+https://moz.com/blog/the-evil-side-of-google-exploring-googles-user-data-collection  
+http://www.bbc.com/news/technology-35659152  
+http://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to  
+https://www.dailydot.com/layer8/dutch-encryption-cabinet-backdoor/  
+https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data  
+Snoopers charter:  
+https://anotherangryvoice.blogspot.com/2016/12/the-snoopers-charter-allows-state-to.html  
+https://anotherangryvoice.blogspot.com/2016/11/the-tory-snoopers-charter-is-now-law.html  
+https://anotherangryvoice.blogspot.com/2016/12/the-intense-gullibility-of-snoopers.html  
+https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers  
+http://www.computerworlduk.com/security/draft-investigatory-powers-bill-what-you-need-know-3629116/  
+https://www.theregister.co.uk/2016/11/30/investigatory_powers_act_backdoors/  
 
 
-
+### Documentaries
+http://www.imdb.com/title/tt2417174/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt1422757/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt1279942/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt2551516/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt3312868/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt2177843/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt3010462/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt3268458/?ref_=tt_rec_tt  
+http://www.imdb.com/title/tt1824254/?ref_=tt_rec_tti  
+http://www.imdb.com/title/tt2608732/?ref_=tt_rec_tt  
