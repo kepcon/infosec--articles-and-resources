@@ -74,8 +74,11 @@ https://www.theregister.co.uk/2016/11/30/investigatory_powers_act_backdoors/
 
 
 ### Documentaries
-Terms and Conditions May Apply (2013) - http://www.imdb.com/title/tt2084953/
+Killswitch (2014) - http://www.imdb.com/title/tt4067162/  
+Terms and Conditions May Apply (2013) - http://www.imdb.com/title/tt2084953/  
 DSKNECTD (2013) - http://www.imdb.com/title/tt2417174/?ref_=tt_rec_tt  
+Softwaring Hard (2014) - http://www.imdb.com/title/tt3063636/
+We Live in Public (2009) - http://www.imdb.com/title/tt0498329/
 Steal This Film (2006) - http://www.imdb.com/title/tt1422757/?ref_=tt_rec_tt  
 Hackers Are People Too (2008) - http://www.imdb.com/title/tt1279942/?ref_=tt_rec_tt  
 Google and the World Brain (2013) - http://www.imdb.com/title/tt2551516/?ref_=tt_rec_tt  
