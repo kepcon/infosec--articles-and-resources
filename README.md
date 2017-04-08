@@ -89,6 +89,7 @@ DEFCON: The Documentary (2013) - http://www.imdb.com/title/tt3010462/?ref_=tt_re
 The Internet's Own Boy: The Story of Aaron Swartz (2014) - http://www.imdb.com/title/tt3268458/?ref_=tt_rec_tt  
 We Steal Secrets: The Story of WikiLeaks (2013) - http://www.imdb.com/title/tt1824254/?ref_=tt_rec_tti  
 TPB AFK: The Pirate Bay Away from Keyboard (2013) - http://www.imdb.com/title/tt2608732/?ref_=tt_rec_tt  
+https://github.com/k4m4/movies-for-hackers  
 
 ### Misc
 https://help.github.com/articles/git-and-github-learning-resources/  
