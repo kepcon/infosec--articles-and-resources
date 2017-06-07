@@ -72,7 +72,7 @@ https://anotherangryvoice.blogspot.com/2016/12/the-intense-gullibility-of-snoope
 https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers  
 http://www.computerworlduk.com/security/draft-investigatory-powers-bill-what-you-need-know-3629116/  
 https://www.theregister.co.uk/2016/11/30/investigatory_powers_act_backdoors/  
-
+https://www.inverse.com/article/22198-london-surveillance-theresa-may-cctv-terrorism-future-cities
 
 ### Documentaries
 Killswitch (2014) - http://www.imdb.com/title/tt4067162/  
