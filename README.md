@@ -50,6 +50,10 @@ http://techlog360.com/2016/01/nsa-chief-hacker-explains-how-to-avoid-nsa-spying/
 https://www.bestvpn.com/the-ultimate-privacy-guide/#avoidus  
 
 * Articles  
+Russian State Hackers Use Britney Spears Instagram Posts to Control Malware-  https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-britney-spears-instagram-posts-to-control-malware/
+All windows spied on - https://thehackernews.com/2017/05/athena-cia-windows-hacking.html  
+How Facebook's tentacles reach further than you think http://www.bbc.co.uk/news/business-39947942  
+http://www.ndtv.com/world-news/bose-headphones-spy-on-listeners-lawsuit-1683707  
 http://www.ted.com/talks/glenn_greenwald_why_privacy_matters  
 https://www.aclu.org/blog/you-may-have-nothing-hide-you-still-have-something-fear  
 https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/  
@@ -65,6 +69,7 @@ http://www.bbc.com/news/technology-35659152
 http://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to  
 https://www.dailydot.com/layer8/dutch-encryption-cabinet-backdoor/  
 https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data  
+https://www.theregister.co.uk/2017/05/08/facebook_is_abusive_its_time_to_divorce_it/?mt=1494243348367  
 Snoopers charter:  
 https://anotherangryvoice.blogspot.com/2016/12/the-snoopers-charter-allows-state-to.html  
 https://anotherangryvoice.blogspot.com/2016/11/the-tory-snoopers-charter-is-now-law.html  
