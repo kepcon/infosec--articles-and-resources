@@ -77,7 +77,14 @@ https://anotherangryvoice.blogspot.com/2016/12/the-intense-gullibility-of-snoope
 https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers  
 http://www.computerworlduk.com/security/draft-investigatory-powers-bill-what-you-need-know-3629116/  
 https://www.theregister.co.uk/2016/11/30/investigatory_powers_act_backdoors/  
-https://www.inverse.com/article/22198-london-surveillance-theresa-may-cctv-terrorism-future-cities
+https://www.inverse.com/article/22198-london-surveillance-theresa-may-cctv-terrorism-future-cities  
+https://motherboard.vice.com/en_us/article/nzqayz/this-teen-hacked-150000-printers-to-show-how-the-internet-of-things-is-shit  
+http://www.ibtimes.com/facebook-files-patent-takes-secret-photos-detect-your-emotions-2549802  
+https://www.thelocal.at/20170128/hotel-ransomed-by-hackers-as-guests-locked-in-rooms  
+https://www.reddit.com/r/pcgaming/comments/6navst/it_appears_that_nzxt_is_using_cam_to_collect_data/  
+https://consumerist.com/2017/04/13/your-kids-school-owned-devices-are-spying-on-them-report-finds/  
+https://www.theregister.co.uk/2017/04/12/prisoners_built_computer_connected_to_states_network/  
+
 
 ### Documentaries
 Killswitch (2014) - http://www.imdb.com/title/tt4067162/  
