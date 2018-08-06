@@ -15,8 +15,7 @@ https://prism-break.org/en/categories/gnu-linux/
 http://www.itjobswatch.co.uk/default.aspx?page=1&sortby=0&orderby=0&q=&id=900&lid=2618  
 http://learnxinyminutes.com/
 
-#### Python
-http://learnpythonthehardway.org/book/intro.html  
+#### Python 
 http://automatetheboringstuff.com/chapter0/  
 http://inventwithpython.com/hacking/chapters/  
 http://inventwithpython.com/pygame/chapters/  
